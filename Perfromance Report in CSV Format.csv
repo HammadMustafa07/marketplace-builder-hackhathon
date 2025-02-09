@@ -1,0 +1,11 @@
+Test Case ID,Metric,Value,Status,Notes
+TC001,Performance Score,81,Needs Improvement,Optimize JavaScript execution
+TC002,First Contentful Paint,1.1s,Passed,Within acceptable range
+TC003,Largest Contentful Paint,2.2s,Needs Improvement,Consider lazy loading optimization
+TC004,Total Blocking Time,700ms,Needs Improvement,Reduce JavaScript execution time
+TC005,Cumulative Layout Shift,0,Passed,No unexpected layout shifts
+TC006,Speed Index,1.4s,Passed,Good user experience
+TC007,Unused JavaScript,95 KiB,Needs Improvement,Defer non-critical scripts
+TC008,Avoids Excessive DOM Size,60 elements,Passed,Optimized DOM structure
+TC009,Initial Server Response Time,60ms,Passed,Fast response time
+TC010,Total Network Payload,250 KiB,Passed,Acceptable size
